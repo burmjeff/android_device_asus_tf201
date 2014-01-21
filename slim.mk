@@ -7,7 +7,7 @@ $(call inherit-product, vendor/slim/config/common_full_tablet_wifionly.mk)
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := tf201
+PRODUCT_NAME := slim_tf201
 PRODUCT_BRAND := asus
 PRODUCT_DEVICE := tf201
 PRODUCT_MODEL := EPAD
